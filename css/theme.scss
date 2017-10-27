@@ -25,9 +25,9 @@
 //$accent-color: #52B54B;  // green
 //$accent-color: #8DB359;  //verde bello acido
 $accent-color: #BBBAB6; //grigione
-
+//$background-color: #8AA88C; //verdone
 $font-color: #dddddd;
-$background-color: #292929;
+$background-color: #292929; //nero
 $post-panel-color: #444;
 $footer-background-color: #292c2f;
 $note-color: #87CEFA;
@@ -91,6 +91,7 @@ body {
   //padding-top: 100px;
   height: 100%;
   color: $font-color;
+  background: url(./pics/birds.jpg);
   background: $background-color url(./pics/triangles.png);
   //background: $background-color url(./pics/squares.png); // Another good pattern for background
 }
